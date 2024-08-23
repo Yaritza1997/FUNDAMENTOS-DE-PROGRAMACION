@@ -1,6 +1,6 @@
-<h1> FUNDAMENTOS DE PROGRAMACION </h1>
+<h1> ---FUNDAMENTOS DE PROGRAMACION--- </h1>
 
-<h3>Repositorio de código fuente utilizado en la Asignatura Fundamentos de Programación</h3>
+<h3>MI REPOSITORIO</h3>
 
 <p>
     <strong>Institución: </strong>Universidad Estatal Amazónica <br>
